@@ -203,7 +203,4 @@ void equalPress() {
   } catch (e) {
     answer = "Shiii hisaaab kr";
   }
-  Text("we will create chat histry soon");
-  Container();
-  Container();
 }
